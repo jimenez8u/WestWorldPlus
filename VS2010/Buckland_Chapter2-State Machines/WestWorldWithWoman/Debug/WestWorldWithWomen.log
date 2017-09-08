@@ -1,0 +1,10 @@
+﻿  MinersWifeOwnedStates.cpp
+  MinersWife.cpp
+  MinerOwnedStates.cpp
+  Miner.cpp
+  main.cpp
+  BaseGameEntity.cpp
+  Génération de code en cours...
+BaseGameEntity.obj : warning LNK4075: ' /EDITANDCONTINUE' ignoré à cause de la spécification '/SAFESEH'
+  WestWorldWithWomen.vcxproj -> E:\WW SourceCode\VS2010\Buckland_Chapter2-State Machines\WestWorldWithWoman\.\Debug\WestWorldWithWomen.exe
+  WestWorldWithWomen.vcxproj -> .\Debug/WestWorldWithWomen.pdb (Full PDB)
